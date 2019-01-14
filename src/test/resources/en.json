@@ -1,0 +1,22 @@
+{
+  "page1": {
+    "url": "http://arvato.ee/en/crm-customer-services/",
+    "page_header": "Building relationships – creating value",
+    "button_name": "Open positions",
+    "logo_name": "logo.svg"
+  },
+  "page2": {
+    "url": "http://arvato.ee/en/open-positions-crm/",
+    "page_header": "Career in Arvato",
+    "positions": [
+      "Employer Branding Specialist",
+      "Payroll Calculator",
+      "Russian-speaking Travel Consultant",
+      "English-speaking Help Desk Agent",
+      "English-speaking Service Desk Agent",
+      "Mandarin-speaking Travel Consultant",
+      "Danish-speaking Back Office Agent",
+      "Russian-speaking Customer Service Specialist"
+    ]
+  }
+}

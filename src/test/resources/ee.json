@@ -1,0 +1,22 @@
+{
+  "page1": {
+    "url": "http://arvato.ee/ee/klienditoekeskus/",
+    "page_header": "Luues suhteid loome väärtust",
+    "button_name": "Vabad töökohad",
+    "logo_name": "logo.svg"
+  },
+  "page2": {
+    "url": "http://arvato.ee/ee/open-positions-crm-2/",
+    "page_header": "Karjäär Arvatos",
+    "positions": [
+      "Employer Branding Specialist",
+      "Payroll Calculator",
+      "Russian-speaking Travel Consultant",
+      "English-speaking Help Desk Agent",
+      "English-speaking Service Desk Agent",
+      "Mandarin-speaking Travel Consultant",
+      "Danish-speaking Back Office Agent",
+      "Russian-speaking Customer Service Specialist"
+    ]
+  }
+}
